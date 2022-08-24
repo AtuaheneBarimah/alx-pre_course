@@ -1,1 +1,1 @@
-git add --all
+ echo 'git add --all' >> README.md
